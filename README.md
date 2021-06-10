@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akshat Pethiya</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%B1%F0%9D%94%B2%F0%9D%94%A1%F0%9D%94%A2+%F0%9D%94%9F%F0%9D%94%AC%F0%9D%94%A6+;%F0%9D%94%A5%F0%9D%94%AC%F0%9D%94%AC%F0%9D%94%A8%F0%9D%94%9E%F0%9D%94%A5+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2%F0%9D%94%AF)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&multiline=true&lines=%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%B1%F0%9D%94%B2%F0%9D%94%A1%F0%9D%94%A2+%F0%9D%94%9F%F0%9D%94%AC%F0%9D%94%A6;%F0%9D%94%A5%F0%9D%94%AC%F0%9D%94%AC%F0%9D%94%A8%F0%9D%94%9E%F0%9D%94%A5+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2%F0%9D%94%AF" height="75" width="400">
+</p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
