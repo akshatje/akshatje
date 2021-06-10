@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Pethiya</h1>
-<h3 align="center">Attitude Boi / Hookah Lover</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%B1%F0%9D%94%B2%F0%9D%94%A1%F0%9D%94%A2+%F0%9D%94%9F%F0%9D%94%AC%F0%9D%94%A6+;%F0%9D%94%A5%F0%9D%94%AC%F0%9D%94%AC%F0%9D%94%A8%F0%9D%94%9E%F0%9D%94%A5+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2%F0%9D%94%AF)](https://git.io/typing-svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
