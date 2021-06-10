@@ -1,6 +1,9 @@
 <h2 align="center">Akshat Pethiya</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&multiline=true&lines=%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%B1%F0%9D%94%B2%F0%9D%94%A1%F0%9D%94%A2+%F0%9D%94%9F%F0%9D%94%AC%F0%9D%94%A6;%F0%9D%94%A5%F0%9D%94%AC%F0%9D%94%AC%F0%9D%94%A8%F0%9D%94%9E%F0%9D%94%A5+%F0%9D%94%A9%F0%9D%94%AC%F0%9D%94%B3%F0%9D%94%A2%F0%9D%94%AF" height="75" width="400">
+  <br>
+  <br>
+   <img src="http://readme-typing-svg.herokuapp.com?lines=%F0%9F%85%B8%F0%9F%85%B5+%F0%9F%86%88%F0%9F%85%BE%F0%9F%86%84+%F0%9F%85%B0%F0%9F%86%81%F0%9F%85%B4+%F0%9F%85%B1%F0%9F%85%B0%F0%9F%85%B3+%F0%9F%86%83%F0%9F%85%B7%F0%9F%85%B4%F0%9F%85%BD+%F0%9F%85%B8+%F0%9F%85%B0%F0%9F%85%BC+%F0%9F%86%88%F0%9F%85%BE%F0%9F%86%84%F0%9F%86%81+%F0%9F%85%B3%F0%9F%85%B0%F0%9F%85%B3" height="65" width="400">
 </p>
 
 
