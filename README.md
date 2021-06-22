@@ -1,11 +1,10 @@
 <h2 align="center">Akshat Pethiya</h2>
 
+<audio id="audioID" loop> <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"  type="audio/mp3"></audio>
 
-<iframe src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3" allow="autoplay" id="audio" style="display:none"></iframe>
-<audio autoplay>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
-</audio>
-
+<script>
+var myaudio = document.getElementById("audioID").autoplay = true;
+</script>
 
 
 <br>
