@@ -1,6 +1,6 @@
 <h2 align="center">Akshat Pethiya</h2>
 <p align = "center">
-  <img src = "https://media.giphy.com/media/1ldPQDYHJBoZi/giphy.gif">
+  <img src = "giphy.gif">
 </p>
 <br>
 <br>
